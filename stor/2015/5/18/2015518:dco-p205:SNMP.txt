@@ -1,0 +1,1 @@
+system_output_power_in_kW*10, 20150518143925005, 163
